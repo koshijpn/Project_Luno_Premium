@@ -4,7 +4,11 @@
 ## Cryptocurrency Price Comparison Script
 
 ### Introduction
-This Node.js script allows users to compare Bitcoin (BTC) prices between Binance and Luno, two popular cryptocurrency exchanges. It retrieves real-time prices, calculates the price difference, and provides a percentage-based Luno premium.
+This script allows users to compare Bitcoin (BTC) prices between Binance and Luno, two popular cryptocurrency exchanges. It retrieves real-time prices, calculates the price difference, and provides a percentage-based Luno premium.
+
+### Develop Environment
+
+Javascript, Nodejs, BinanceAPI, lunoapi
 
 ### Prerequisites
 Before using the script, make sure to set up the following:
